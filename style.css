@@ -12,7 +12,6 @@ table.dos{
     text-align: center;
 }
 
-tr,td{
+.green{
     border: green 1px solid;
 }
-
